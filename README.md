@@ -1,2 +1,4 @@
 # javaTestAssignment
 
+Run App.java
+
